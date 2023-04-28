@@ -13,6 +13,7 @@ It would be good for you to open your own [GitHub account](https://github.com/).
 - Wes McKinney (2022). [Python for Data Analysis](https://wesmckinney.com/book/)
 - Garrett Grolemund and Hadley Wickham (2016). [R for Data Science](https://r4ds.had.co.nz/)
 - Joel Grus (2020). [Data Science from Scratch](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://covid19.uthm.edu.my/wp-content/uploads/2020/04/Data-Science-from-Scratch-First-Principles-with-Python-by-Joel-Grus-z-lib.org_.epub_.pdf)
+- Bunch of materials available online for free, just google that.
 
 ## Special Thanks
 
